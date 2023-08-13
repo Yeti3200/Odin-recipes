@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+}
+
+    
+   
+   
+.center-aligned-list{
+    list-style-position: inside; /* Move the bullet points inside the list item */
+    text-align: center;
+}
+
+.center-aligned-list li {
+    margin: 10px 0;
+}
+
+.pictureSummary {
+    font-size: xx-large;
+    
+}

@@ -1,0 +1,23 @@
+.chicken-recipe{
+    color: wheat;
+}
+.odin-recipes{
+    background-color: black;
+    color:wheat;
+    padding: 10px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.styled-recipes{
+    background-color: black;
+    color: wheat;
+    font-size: larger;
+   
+}
+
+body{
+    background-color: grey;
+}
+
